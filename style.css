@@ -1,0 +1,32 @@
+
+body{
+    background-image: url('./sli-1025x360.jpg');
+    background-size: cover;
+    position: relative;
+    background-position: center;
+}
+
+#main{
+    height: 380px;
+    background-color: #a7beb6;
+    margin-top:78px;
+
+    border-radius: 20px;
+border-radius: 20px;
+}
+#info{
+    margin-left:20px;
+    padding-top: 2px;
+}
+input[type=text]{
+    width:150px;
+    box-sizing: border-box;
+
+border: 2px solid cadetblue;
+border-radius: 4px;
+}
+
+.login-main {
+    opacity: .8;
+    text-align: center;
+}
