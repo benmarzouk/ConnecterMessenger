@@ -1,7 +1,7 @@
 
 #main{
     height: 380px;
-    background-color:white;
+    background-color:#a7beb6;
     margin-top: 65px;
 
 }
@@ -44,8 +44,8 @@ margin-right: 700px;
 }
 .dontHave {opacity: .58;
     text-align: center;
-	border: 4px solid #a7beb6;
-	    border-radius: 10px;
+border: 20px solid #a7beb6;
+	
 
 	
 }
