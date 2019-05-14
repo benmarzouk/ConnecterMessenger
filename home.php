@@ -27,6 +27,9 @@ include "dbConnect.php";
 <form method="post"action="send.php" class="send-main">
     <textarea name="msg" placeholder="Type to send message...." class="form-control"></textarea><br>
     <input type="submit" value="Send">
+	
+	<input type="file" 
+	       name="nom_variable_1">
 </form>
  <br>
     <form action="logout.php">

@@ -42,3 +42,16 @@ margin-right: 700px;
 .home-title , .send-main , .output {
     margin-left: 10px;
 }
+.dontHave {opacity: .58;
+    text-align: center;
+	border: 4px solid #a7beb6;
+	    border-radius: 10px;
+
+	
+}
+h1{outline-style:ridge;outline-width:5px}
+div{outline-style:solid;outline-width:2px;}
+
+   
+
+

@@ -20,15 +20,8 @@
 
 			</form>
 			<form action="signup.php" method="post">
-					<h2>Don't Have An Account Sign Up Here</h2>
-					<label>UserName:</label>
-					<input type="text" name="uname" placeholder="UserName"><br><br>
-					<label>Email Add:</label>
-					<input type="text" name="email" placeholder="Email"><br><br>
-					<label>Password:</label>
-					<input type="password" name="password" placeholder="Password"  ><br><br>
-					<button style="background-color: #545e6d;color: white; " type="submit"><b>SignUp</b></button>
-			</form>
+					<h2><a href="dontHave.php">Don't Have An Account Sign Up Here</h2>
+								</form>
 		</div>
 	</div>
 </body>
